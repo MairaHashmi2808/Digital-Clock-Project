@@ -6,6 +6,7 @@ body{
     position: relative;
 }
 .timebox{
+    max-width: 100%;
     width: 800px;
     height: 200px;
     position: absolute;
